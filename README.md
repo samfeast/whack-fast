@@ -1,5 +1,10 @@
 # Submission for the 1 hour hack at WHACK 2025
 
+Sometimes programs on your PC just don't work. It's always good to have a CLI backup.
+Broken photo viewer? Check it out in the terminal!
+Broken video viewer? Just watch it in the terminal!
+Broken webcam viewer? Terminal too!
+
 # ASCII Art Terminal Renderer
 
 `art.py` renders images, videos, or live webcam feeds as colored ASCII art directly in your terminal.
